@@ -146,3 +146,7 @@ msgstr "Letzte Chance"
 msgctxt "#31044"
 msgid "Most Recent"
 msgstr "Neueste Videos"
+
+msgctxt "#31045"
+msgid "Audio Description"
+msgstr "Programme mit Audio Deskription"
