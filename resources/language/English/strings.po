@@ -150,3 +150,7 @@ msgstr "Most Recent"
 msgctxt "#31045"
 msgid "Audio Description"
 msgstr "Audio Description"
+
+msgctxt "#31046"
+msgid "Highlights"
+msgstr "Highlights"
