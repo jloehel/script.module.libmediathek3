@@ -26,7 +26,7 @@ except ImportError:
 def log(msg):
 	xbmc.log(msg)
 
-def getTranslation(id,addonid='script.module.libmediathek3'):
+def getTranslation(id,addonid='script.module.libmediathek3beta'):
 	return xbmcaddon.Addon(id=addonid).getLocalizedString(id)
 	
 def getUrl(url,headers=False,post=False,cookies=False):

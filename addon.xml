@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.module.libmediathek3" 
-	     name="libmediathek3" 
-	     version="1.5.3" 
-	     provider-name="sarbes">
+<addon id="script.module.libmediathek3beta"
+	     name="libmediathek3beta"
+	     version="1.5.4"
+	     provider-name="sarbes,MhhhxX">
   <requires>
     <import addon="xbmc.python" version="2.25.0" />
   </requires>
